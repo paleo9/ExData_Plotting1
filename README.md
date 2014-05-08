@@ -1,3 +1,9 @@
+# Completed assignment
+
+Four R files (plot1.R .. plot4.R) create the four PNG files (plot1.png .. 
+plot4.png) as outlined in the original version of this readme below.
+
+
 ## Introduction
 
 This assignment uses data from
