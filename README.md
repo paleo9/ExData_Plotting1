@@ -3,9 +3,6 @@
 Four R files (plot1.R .. plot4.R) create the four PNG files (plot1.png .. 
 plot4.png) as outlined in the original version of this readme below.
 
-Each 'plot_.R' file uses the function getData() defined in 'getData.R'. This 
-returns only the data for the two days of interest.
-
 
 ## Introduction
 
